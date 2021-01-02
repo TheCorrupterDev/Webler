@@ -4,7 +4,7 @@
 IT:
       
 Che cosa è?
-Per chi se lo è perso è un Browser multi app
+è un Browser multi app
 
 - Perchè il nome Webler
 In realtà non lo so ma mi piaceva
